@@ -9,7 +9,7 @@ We at our end, have the actual loan status for the test dataset, against which y
 
 
 
-Public and Private Split
+# Public and Private Split
 Test file is further divided into Public (25%) and Private (75%)
 
 Your initial responses will be checked and scored on the Public data.
